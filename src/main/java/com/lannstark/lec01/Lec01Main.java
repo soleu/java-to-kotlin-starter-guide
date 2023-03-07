@@ -13,4 +13,6 @@ public class Lec01Main {
     Person person = new Person("최태현"); // (4)
   }
 
+  // long - final lon음g (가변, 불변)
+
 }
